@@ -1,6 +1,6 @@
 # Lecture-12 CSS Properties and Cards
 ## Text-align property
-The text-align property specifies the horizontal alignment of text in an element.
+The text-align property displays the text in value applied like left, right, center, etc. Remember, it will only work with text like, paragraphs, <a> tag, text, etc. 
 ### Property Values
 1. left
 2. right
@@ -39,31 +39,15 @@ p.main {
 </html>
 
 ```
-## Text-Shadow Property
-The text-shadow property adds shadow to text.
-
-This property accepts a comma-separated list of shadows to be applied to the text.
-
-### 💻 Example
-```html
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 {
-  text-shadow: 2px 2px ;
-}
-</style>
-</head>
-<body>
-
-<h1>The text-shadow Property</h1>
-
-</body>
-</html>
-```
 ## Box-Shadow Property
-The box-shadow property displays one or more shadows to an element.
+The box-shadow property is used to diplay shadows around objeects like cards, divisions, etc.
+
+### Basic Syntax:  
+ 
+* box-shadow: horizontal verticle blur color; 
+
+**The first value in the above example will decide how much the shadow will be horizontal, second value will diecide verticle, third value blur and thikness of shadow and color value, color of the shadow.** 
+  
 ### 💻 Example
 ```html
 <!DOCTYPE html>
