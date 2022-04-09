@@ -39,6 +39,7 @@ p.main {
 </html>
 
 ```
+#
 ## Box-Shadow Property
 The box-shadow property is used to diplay shadows around objeects like cards, divisions, etc.
 
@@ -97,7 +98,54 @@ The box-shadow property is used to diplay shadows around objeects like cards, di
 </html>
 ```
 # Creating a Card with CSS
+### 💻 Example
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CARD</title>
+    <style>
+        .card{
+            width: 150px;
+            height: 180px;
+            border: 1px solid black;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+            padding: 15px;
 
+            box-shadow: 0px 0px 10px #595959;
+        }
+        
+        .btn-add{
+            background-color: tomato;
+            border: 1px solid black;
+            padding: 5px;
+            border-radius: 10px;
+            width: 100px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            margin-top: 20px;
+        }
+        .product-image{
+            height: 100px;
+            width: 150px;
+        }
+       
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img  src="./speakers.jpeg" class="product-image">
+        <button class="btn-add">Add To Card</button>
+    </div>
+    
+</body>
+</html>
+```
+![Output](/output.png)
+#
 ## 🏠 Homework 
 
 >1️⃣ Create a webpage and implement atleast 3 cards.
