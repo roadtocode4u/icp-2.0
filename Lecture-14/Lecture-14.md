@@ -9,18 +9,22 @@ The position of element can be set using ```left```,```right```,```top``` & ```b
 
 ## Relative
 This property sets position of element with respect to the nearest elements.
+
 **💻Example:**
 
 ## Absolute
 This property sets position of element with respect to the parent element.
+
 **💻Example:**
 
 ## Fixed
 This property helps element to take fixed position in viewport.
+
 **💻Example:**
 
 ## Sticky
 This property sticks element at a specific position when user is scrolling.
+
 **💻Example:**
 
 ### 🏠 Homework 
