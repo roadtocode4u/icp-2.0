@@ -5,6 +5,42 @@
 The Hover Property gets activated when mouse goes on element. 
 Remember, to apply any property on any element in css, we need to apply selector, be it tag name, class name or id.
 
+### 💻Example:
+
+```
+<html>
+    <head>
+        <title>
+            Hover Effect
+        </title>
+        <style>
+            button
+            {
+                background-color: tomato;
+            }
+            button:hover
+            {
+                background-color: yellow;
+            }
+        </style>
+    </head>
+    <body>
+        <button>Click Me!😉</button> 
+    </body>
+</html>
+```
+### Output: 
+**Normal Output**
+
+
+![Screenshot (220)](https://user-images.githubusercontent.com/90567283/162619253-9d408cdf-30f6-41c9-9109-f32249be2816.png)
+
+
+**Output with Hover Effect**
+
+
+![Screenshot (221)](https://user-images.githubusercontent.com/90567283/162619341-24464ff2-7760-4172-a12f-516d30b6885b.png)
+
 ## Display Property in CSS
 
 In general we have 3 types of display properties:
