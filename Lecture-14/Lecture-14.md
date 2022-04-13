@@ -32,3 +32,4 @@ This property sticks element at a specific position when user is scrolling.
 #### To view practical demonstration of Sticky Property, view recorded lecture from 31:00. 
 
 
+
