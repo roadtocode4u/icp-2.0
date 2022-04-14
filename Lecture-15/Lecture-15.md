@@ -1,4 +1,6 @@
-# CSS Position Property
+# Lecture 15 CSS Positions
+
+## CSS Position Property
 The Position property of CSS determines the position of elements in viewport.
 The position of element can be set using ```left```,```right```,```top``` & ```bottom```.
 ### Let's take a look on types of position property in CSS:
