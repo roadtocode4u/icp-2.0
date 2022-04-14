@@ -1,4 +1,6 @@
-# Ways of appliying CSS on html file
+# Lecture 16 Inline, Document level and External CSS
+
+## Ways of appliying CSS on html file
 We can apply CSS on html file by three ways:
 - Inline CSS
 - Document level/ Internal CSS
