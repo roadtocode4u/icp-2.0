@@ -5,7 +5,7 @@
 The Hover Property gets activated when mouse goes on element. 
 Remember, to apply any property on any element in css, we need to apply selector, be it tag name, class name or id.
 
-### 💻Example:
+**💻Example:**
 
 ```
 <html>
@@ -25,6 +25,7 @@ Remember, to apply any property on any element in css, we need to apply selector
         </style>
     </head>
     <body>
+
         <button>Click Me!😉</button> 
     </body>
 </html>
@@ -55,6 +56,10 @@ In general we have 3 types of display properties:
 * It cannot be specified Height or Width. 
 For e.g. Images, anchor tag, italic tag, span tag, etc.
 
+**💻Example:**
+
+![Screenshot (223)](https://user-images.githubusercontent.com/90567283/163569914-93278b2f-3ab4-4ff7-9470-30e302adb9b0.png)
+
 **Block**
 
 * These elements starts with new line. 
@@ -62,10 +67,16 @@ For e.g. Images, anchor tag, italic tag, span tag, etc.
 * We can specify Height and Width to them.   
 For e.g. all heading tags, division tag, paragraph tag, etc. 
 
+**💻Example:**
+
 **Inline-Block**
 
 * Elements in Same line ( if space is available )
 * Height and Widht can be specified. 
+
+**💻Example:**
+
+![Screenshot (224)](https://user-images.githubusercontent.com/90567283/163569942-bf35e408-b161-4195-b44f-748eb1cbc7d4.png)
 
 ### 🏠 Homework 
 
