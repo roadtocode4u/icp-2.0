@@ -69,6 +69,8 @@ For e.g. all heading tags, division tag, paragraph tag, etc.
 
 **💻Example:**
 
+![Screenshot (225)](https://user-images.githubusercontent.com/90567283/163664605-956d770e-8ebe-4569-acf5-ffccfaaf0056.png)
+
 **Inline-Block**
 
 * Elements in Same line ( if space is available )
